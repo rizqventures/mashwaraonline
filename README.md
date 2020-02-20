@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+##  AL-SADAQAH APP PRIVACY POLICY
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used by Al-Sadaqah app. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information.
 
-You can use the [editor on GitHub](https://github.com/rizqventures/mashwaraonline/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+What personal information do we collect from the people that visit our website and app?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When registering your organization on our web site or through our app, you will be asked to enter information on behalf of your organization including name, address, non-profit status, tax exempt ID, contact email, and PayPal email.
+When signing-into the app users will be asked to enter their email, password and phone number or Login via Facebook whereby Al-Sadaqah app will collect this information from Facebook.
+Other privacy-relevant permissions requested by Al-Sadaqah app include:
+CAMERA is used for permissions that are associated with accessing camera or capturing images/video from the device.
+PHONE is used for permissions that are associated telephony features.
+How do we use your information? We will use the above information in order to:
 
-### Markdown
+To enable a registry of donors
+To enable non-profit organizations to receive donations directly into their PayPal account. This activity happens outside of the app on the Web via PayPal. Al-Sadaqah app is not involved in any part of the donation transaction.
+To send periodic updates on philanthropic causes to your
+CAMERA permissions are used for ability to capture the user's selfies for their profile pic in app
+PHONE permissions will be used for read only access to phone state, including access to current cellular network information so the App knows if offline vs. online organization database should be presented in app.
+How do we protect your information?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We do not use vulnerability scanning and/or scanning to PCI standards. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential.
 
-```markdown
-Syntax highlighted code block
+Third-party disclosure We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rizqventures/mashwaraonline/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contacting Us
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+support@alsadaqahapp.com
+1-844-SADAQAH
